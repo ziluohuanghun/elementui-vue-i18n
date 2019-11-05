@@ -1,0 +1,14 @@
+{
+  "version": "1.0.1",
+  "lang_order": ["option_key", "zh", "en", "ru"],
+  "desc": "",
+  "dict": {
+    "userRole": [
+      ["超级管理员", "超级管理员", "Super administrator", ""],
+      ["普通用户", "普通用户", "Common user", ""]
+    ],
+    "account": [
+      ["选择日期", "选择日期", "choose dete", ""]
+    ]
+  }
+}
